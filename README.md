@@ -55,7 +55,7 @@ The system consists of:
 
 * **"On break" menu:**
 
-![LogIn form](A91ymyc2h_rlsl0x_2g8.png)
+![On Break](A91ymyc2h_rlsl0x_2g8.png)
 
 * **Fare input:**
 
