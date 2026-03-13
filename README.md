@@ -64,7 +64,7 @@ The system consists of:
 ### Web Application
 * **Log in Form:**
   
-![LogIn form](A9d2liu7_rlsl1b_2g8.jpg)
+![LogIn form](map-overview.png)
 * **Map overview:**
   
 ![Web App - Map](https://cdn.mathpix.com/cropped/2025_03_11_bf711966d475831bb6d6g-27.jpg?height=869&width=1600&top_left_y=708&top_left_x=231)
